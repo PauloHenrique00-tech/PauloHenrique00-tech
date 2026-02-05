@@ -19,13 +19,16 @@ Busco oportunidades como **Desenvolvedor Júnior**, bem como posições compatí
 - React Native  
 
 ### Back-end
-- PHP  
+- PHP
+- Node JS  
 
 ### Banco de Dados
-- MySQL  
+- MySQL
+- SQL
 
 ### Versionamento
-- Git & GitHub  
+- Git & GitHub
+- VS Code
 
 ---
 
