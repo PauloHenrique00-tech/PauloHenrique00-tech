@@ -29,26 +29,7 @@ Busco oportunidades como **Desenvolvedor Júnior**, bem como posições compatí
 ### Versionamento
 - Git & GitHub
 - VS Code
-
----
-
-## 🎓 Formação
-
-**Curso Técnico em Tecnologia da Informação (Concluído)**  
-Formação voltada para desenvolvimento web, lógica de programação, banco de dados, versionamento de código e fundamentos de sistemas.
-
----
-
-## 📈 Desenvolvimento Profissional
-
-Atualmente, sigo aprimorando meus conhecimentos por meio de projetos práticos e estudos contínuos, com foco em **boas práticas de desenvolvimento**, **organização de código**, **componentização em React** e **consumo de APIs**.
-
----
-
-## 💼 Objetivo Profissional
-
-Atuar como **Desenvolvedor Júnior**, bem como em oportunidades compatíveis com meu perfil técnico, contribuindo em projetos que valorizem **qualidade de código**, **experiência do usuário** e **soluções escaláveis**, especialmente no desenvolvimento web e no ecossistema React.
-
+  
 ---
 
 ## 📫 Contato
