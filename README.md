@@ -6,34 +6,34 @@ Busco oportunidades como **Desenvolvedor Júnior**, bem como posições compatí
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
-### Front-end
+**Front-end**
 - HTML5  
 - CSS3  
 - JavaScript (ES6+)  
 - React  
 - Next.js  
 
-### Mobile
+**Mobile**
 - React Native  
 
-### Back-end
+**Back-end**
 - PHP
 - Node JS  
 
-### Banco de Dados
+**Banco de Dados**
 - MySQL
 - SQL
 
-### Versionamento
+**Versionamento**
 - Git & GitHub
 - VS Code
   
 ---
 
-## 📫 Contato
+## Contato
 
-- 💼 LinkedIn: https://www.linkedin.com/in/paulo-henrique-saraiva/  
-- 💻 GitHub: https://github.com/PauloHenrique00-tech  
-- 📧 Email: saraiva_ph@hotmail.com
+- LinkedIn: https://www.linkedin.com/in/paulo-henrique-saraiva/  
+- GitHub: https://github.com/PauloHenrique00-tech  
+- Email: saraiva_ph@hotmail.com
