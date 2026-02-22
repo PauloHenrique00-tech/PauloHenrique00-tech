@@ -11,7 +11,7 @@ Busco oportunidades como **Desenvolvedor Júnior**, bem como posições compatí
 **Front-end**
 - HTML5  
 - CSS3  
-- JavaScript (ES6+)  
+- JavaScript
 - React  
 - Next.js  
 
