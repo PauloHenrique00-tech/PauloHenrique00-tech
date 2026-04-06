@@ -1,6 +1,6 @@
 # Paulo Henrique Saraiva
 
-Desenvolvedor com **formação técnica em Tecnologia da Informação**, com experiência no desenvolvimento de aplicações web e mobile. Possuo conhecimentos sólidos em tecnologias do ecossistema JavaScript, além de atuação com back-end em PHP e banco de dados MySQL.
+Desenvolvedor com **formação técnica em Tecnologia da Informação**, com experiência no desenvolvimento de aplicações web e mobile. Possuo conhecimentos sólidos em tecnologias do ecossistema JavaScript, além de atuação com back-end em **PHP** e banco de dados **MySQL**.
 
 Busco oportunidades como **Desenvolvedor Júnior**, bem como posições compatíveis com meu nível de experiência e requisitos técnicos, onde eu possa contribuir ativamente para o desenvolvimento de soluções eficientes e bem estruturadas.
 
